@@ -1,7 +1,6 @@
 # PWM fan speed control module Single 12V Temperature control speed controller 2-3 wire can be shut down temperature control speed controller Small size
 
-
-IMAGEM 1
+![Imagem 1](/FanController_Imagem1.jpg "Imagem 1")
 
 
 ## Why do I need to use a governor?
@@ -20,18 +19,18 @@ This governor completely adopts industrial-grade technical solutions and is suit
 2. Energy saving and noise reduction of the fan in the computer room
 3. Other fan temperature control and speed regulation applications
 
-IMAGEM 2
+![Imagem 2](/FanController_Imagem2.jpg "Imagem 2")
 
-IMAGEM 3
+![Imagem 3](/FanController_Imagem3.jpg "Imagem 3")
 
-IMAGEM 4
+![Imagem 4](/FanController_Imagem4.jpg "Imagem 4")
 
 The temperature probe matched with this module is made of 1% high precision thermistor and epoxy resin seal, which is waterproof and moisture-proof. The metal part of the probe is the temperature sensing point, and the length of the connecting wire is 50cm by default, and it can be extended with a wire! When using, fix the probe on the heating source.
 
 ## Instructions:
 ### 1. Wiring diagram
 
-IMAGEM 5
+![Imagem 5](/FanController_Imagem5.jpg "Imagem 5")
 
 
 ### 2. This controller is designed as a combination of manual control and automatic temperature control:
@@ -41,7 +40,7 @@ To
 
 2. Install a temperature probe: the manual speed adjustment is the initial low speed (bottom line speed). When the temperature exceeds the acceleration temperature, the fan speed will smoothly accelerate with the increase in temperature. When the temperature reaches or exceeds the sum of the acceleration temperature and the acceleration width (That is, the temperature at full speed), the fan is at full speed, the setting acceleration temperature and acceleration width parameters are detailed in the following setting diagram. The numbers 1 2 3 in the figure represent that the on (red) and off (white) states of the indicator lights on the board are displayed in binary order:
 
-IMAGEM 6
+![Imagem 6](/FanController_Imagem6.jpg "Imagem 6")
 
 
 During normal operation: Click the button to increase the bottom line output by 5%, and the double break button to decrease the bottom line output by 5%. After changing the value, run for 20 seconds. After the middle indicator light stops flashing rapidly, brake and save the parameters. Enter the temperature control setting by long pressing the button.
