@@ -10,7 +10,8 @@ In a conventional fan cooling system, the common practice is to directly supply 
 
 ## In fact, this approach is improper:
 
-1. The fan is actually a mechanical operating device, running at the highest speed at any time, which will accelerate wear and shorten the life of the fan! 2. In most practical applications, when the temperature is not high, there is no need to run the fan, which will waste electrical energy and increase unnecessary wind noise!
+1. The fan is actually a mechanical operating device, running at the highest speed at any time, which will accelerate wear and shorten the life of the fan! 
+2. In most practical applications, when the temperature is not high, there is no need to run the fan, which will waste electrical energy and increase unnecessary wind noise!
 
 ## Scenes to be used:
 This governor completely adopts industrial-grade technical solutions and is suitable for industrial control environments.
