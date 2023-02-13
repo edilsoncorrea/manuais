@@ -1,3 +1,5 @@
+# Manual Spot Welder DIY 99 Gears
+
 Before assembling this product, please be sure to spend a few minutes to learn about this product description, thank you! Spot welding machine products are semi-fini shed circuit boards, so you need to have certain electricity knowledge and practical a bility, and also need to prepare some necessary tools. Buch as: multimeter, pliers, so rew cutter, eto.
 
 Spot welder accessories include
@@ -12,7 +14,13 @@ nput line, and the startup treasure version is the EC5 female input line)
 
 5 Free: About one meter of nickel sheet for practice
 
+Fig 1
 
+Fig 2
+
+Fig 3
+
+Fig 4
 
 
 Notice! the red spot welding pen is charged, don't use it to touch any components on the board. Do not replace or extend the cable without authorization, Do not use clamps for wiring, which will cause current limitation and the spot welding effect will be unsatisfac tory. After the user receive it. the wiring shall be operated strictly in accordance with
