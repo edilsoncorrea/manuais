@@ -76,6 +76,11 @@ Now, when you view the Markdown file on GitHub, you should see the video player 
 
 [Video](https://github.com/edilsoncorrea/manuais/blob/main/fancontroller/videoplayback.mp4)
 
+<video src="https://github.com/edilsoncorrea/manuais/blob/main/fancontroller/videoplayback.mp4" width="320" height="240" controls>
+  Your browser does not support the video tag.
+</video>
+
+
 
 
 
