@@ -66,4 +66,19 @@ Note that the fan shut down strategy is controlled in a hysteresis mode, which c
 ### Precautions for use:
 Since most fans can run at low output but cannot start, when setting the minimum speed of the temperature control, you should first adjust to the lowest speed and stop the fan by hand, and then increase the output step by step until the fan starts normally. After the actual setting, do not lower than this position, otherwise the fan may not start at low speed.
 
-/fancontroller/videoplayback.mp4
+<video src="<URL of your MP4 file>" width="320" height="240" controls>
+  Your browser does not support the video tag.
+</video>
+Replace "<URL of your MP4 file>" with the URL you copied in step 5.
+7. Commit and push your changes to the repository.
+
+Now, when you view the Markdown file on GitHub, you should see the video player embedded in the page, and you can click the play button to watch the video.
+
+
+<video src="/fancontroller/videoplayback.mp4" width="320" height="240" controls>
+  Your browser does not support the video tag.
+</video>
+
+
+
+
