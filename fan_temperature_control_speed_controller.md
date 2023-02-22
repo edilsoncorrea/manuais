@@ -74,10 +74,7 @@ Replace "<URL of your MP4 file>" with the URL you copied in step 5.
 
 Now, when you view the Markdown file on GitHub, you should see the video player embedded in the page, and you can click the play button to watch the video.
 
-
-<video src="/fancontroller/videoplayback.mp4" width="320" height="240" controls>
-  Your browser does not support the video tag.
-</video>
+[](https://github.com/edilsoncorrea/manuais/blob/main/fancontroller/videoplayback.mp4)
 
 
 
