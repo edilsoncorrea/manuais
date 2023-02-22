@@ -66,4 +66,4 @@ Note that the fan shut down strategy is controlled in a hysteresis mode, which c
 ### Precautions for use:
 Since most fans can run at low output but cannot start, when setting the minimum speed of the temperature control, you should first adjust to the lowest speed and stop the fan by hand, and then increase the output step by step until the fan starts normally. After the actual setting, do not lower than this position, otherwise the fan may not start at low speed.
 
-[Video](/fancontroller/videoplayback.mp4)
+[Video](fancontroller/videoplayback.mp4)
